@@ -1,0 +1,21 @@
+name,phone,email,state,timezone,consent_source,consent_date,notes
+Dana Whitfield,(212) 555-0101,dana@example.com,NY,,Sample data,2026-10-01,Asked about a full replacement
+Marcus Lee,(305) 555-0102,marcus@example.com,FL,,Sample data,2026-10-02,Storm damage
+Elena Petrova,(312) 555-0103,elena@example.com,IL,,Sample data,2026-10-02,
+Tom Okonkwo,(213) 555-0104,tom@example.com,CA,,Sample data,2026-10-03,Prefers afternoons
+Grace Kim,(206) 555-0105,grace@example.com,WA,,Sample data,2026-10-04,
+Luis Herrera,(512) 555-0106,luis@example.com,TX,,Sample data,2026-10-04,Lives in two-zone state on purpose
+Nina Rossi,(617) 555-0107,nina@example.com,MA,,Sample data,2026-10-05,
+Ben Carter,(404) 555-0108,ben@example.com,GA,,Sample data,2026-10-06,Small leak over the garage
+Aisha Khan,(303) 555-0109,aisha@example.com,CO,,Sample data,2026-10-06,
+Owen Murphy,(602) 555-0110,owen@example.com,AZ,,Sample data,2026-10-07,
+Sofia Garcia,(702) 555-0111,sofia@example.com,NV,,Sample data,2026-10-08,New roof last decade
+Henry Zhao,(415) 555-0112,henry@example.com,CA,,Sample data,2026-10-08,
+Ruth Adler,(215) 555-0113,ruth@example.com,PA,,Sample data,2026-10-09,Wants a second opinion
+Isaac Reed,(615) 555-0114,isaac@example.com,TN,,Sample data,2026-10-10,
+Mia Tanaka,(808) 555-0115,mia@example.com,HI,,Sample data,2026-10-11,
+Caleb Stone,(907) 555-0116,caleb@example.com,AK,,Sample data,2026-10-11,
+Zoe Martin,(503) 555-0117,zoe@example.com,,America/Los_Angeles,Sample data,2026-10-12,Timezone given directly
+Noah Brooks,(612) 555-0118,noah@example.com,MN,,Sample data,2026-10-13,
+Leah Fischer,(314) 555-0119,leah@example.com,MO,,Sample data,2026-10-14,
+Jack Nolan,(202) 555-0120,,,,,,No location or permission source on file

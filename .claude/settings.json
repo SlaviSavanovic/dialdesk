@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "deny": ["Read(./.env)", "Edit(./.env)", "Write(./.env)"]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|Read|Edit|Write|Grep|Glob",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/guard.mjs\""
+          }
+        ]
+      }
+    ]
+  }
+}
